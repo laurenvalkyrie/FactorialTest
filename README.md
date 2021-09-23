@@ -14,11 +14,12 @@ _An automation test written with Selenium and C# and utilizes the Visual Studio 
 
 ## Setup/Installation Requirements
 
-_Clone or download this repository_
-_Must have Visual Studio installed_
+* _Clone or download this repository_
+* _Must have Visual Studio installed_
 
 #### DEVELOPEMENT SETUP LOCALLY
-_Install the following NuGet packages through the Package Manager Console_
+
+_Install the following NuGet packages through the Package Manager Console:_
 
 ```
 PM> Install-Package Selenium.Webdriver
