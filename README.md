@@ -6,7 +6,7 @@
 
 ## Description
 
-_An automation test written with Selenium and C# and utilizes the Visual Studio Unit Testing framework_
+_An automation test written with Selenium and C# that utilizes the Visual Studio Unit Testing framework_
 
 ## Specifications
 #### Test cases covered:
