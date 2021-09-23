@@ -41,7 +41,9 @@ PM> Install-Package MSTest.TestAdapter
 PM> Install-Package MSTest.TestFramework
 ```
 
+#### RUNNING THE TEST
 
+_To run this test, simply open the project in Visual Studio, and select Run All Tests from the Test menu._
 
 ## Known Bugs
 
