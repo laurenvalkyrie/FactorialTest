@@ -29,6 +29,20 @@ PM> Install-Package Selenium.Webdriver
 PM> Install-Package Selenium.Support
 ```
 
+```
+PM> Install-Package Selenium.Firefox.Webdriver
+```
+
+```
+PM> Install-Package MSTest.TestAdapter
+```
+
+```
+PM> Install-Package MSTest.TestFramework
+```
+
+
+
 ## Known Bugs
 
 _none_
